@@ -10,4 +10,4 @@
 - These are the instructions to run the shiny app  
 - The app is hosted on Rstudio [Urban Population](https://edlewis4.shinyapps.io/course_project/)
 
-- The Slidify slide deck for this is posted on Rpubs [Rpubs Slidify Preso](http://edlewis4.github.io/DevDataProducts-Web/index.html#1 )
+- The Slidify slide deck for this is posted on my Github gh-pages [Slidify Preso](http://edlewis4.github.io/DevDataProducts-Web/index.html#1 )
